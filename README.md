@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to our GitHub Page 😎</h1>
 <h3 align="center">Ecodroids is a next-gen NFT project combining AI-powered battle royale gaming and community-driven chaos. Your Ecodroid NFT isn’t just a PFP—it fights and evolves. Ecodroids is where Web3 gaming, strategy, and degen vibes collide. Plus, we’re not just ideas—we’ve already published games on Steam. 🎮🔥</h3>
 
-<p align="center"> <a href="https://t.me/ecodroidsnft" target="blank"><img src="https://infernodao.xyz/images/tg.webp" alt="ecodroids" /></a> ● <a href="https://twitter.com/ecodroids" target="blank"><img src="https://infernodao.xyz/images/xxx.webp" alt="ecodroids" /></a> </p>
+<p align="center"> <a href="https://t.me/ecodroidsnft" target="blank"><img src="https://infernodao.xyz/images/tg.webp" alt="ecodroids" width="100" /></a>  <a href="https://twitter.com/ecodroids" target="blank"><img src="https://infernodao.xyz/images/xxx.webp" alt="ecodroids" width="100" /></a> </p>
 
 - 🔭 Game that we published: [Mula: The Cycle of Shadow](https://store.steampowered.com/app/710160/Mula_The_Cycle_of_Shadow/)
 
